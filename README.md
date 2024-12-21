@@ -1,1 +1,2 @@
-# TECHNO-X
+# miniproject
+Repo for Miniproject
